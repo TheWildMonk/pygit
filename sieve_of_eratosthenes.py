@@ -16,4 +16,3 @@ for prime_numbers in range(2, user_input+1):
 for prime_numbers in range(2, user_input+1):
     if prime_numbers_list[prime_numbers]:
         print(prime_numbers_list[prime_numbers])
-        
